@@ -11,10 +11,10 @@ This comes complete with error pop-ups where required. An example of a mid-anima
 
 <img src="MarkdownImages/MENU2.PNG">
 
-Once a player has joined or created a room, they are given this screen (with an animation). Note the room title "test" showing. I have used PUN to execute the connections to the room.
+Once a player has joined or created a room, they are given an animation culminating with this screen. Note the room title "test" showing. I have used PUN to execute the connections to the room.
 
 <img src="MarkdownImages/MENU3.PNG">
 
-A player selects a name and then waits for the host to start. This screen naturally also has error pop-ups, for instances such as choosing a name that has already been picked and for trying to start when one is not the host. An example of a mid-animation pop-up is shown below.
+A player selects a name and then waits for the host to start. The local player's name is shown in bold, and the host is tagged with a "Host" text element. This screen naturally also has error pop-ups, for instances such as choosing a name that has already been picked and for trying to start when one is not the host. An example of a mid-animation pop-up is shown below.
 
 <img src="MarkdownImages/MENU4.PNG">
