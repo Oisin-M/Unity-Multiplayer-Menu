@@ -1,5 +1,5 @@
 ## iPrivate-i
-# Multiplayer menu in Unity using PUNwith animations
+# Multiplayer menu in Unity using PUN (also has animations)
 
 Part of my first attempt at making a Unity Game
 
